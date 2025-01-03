@@ -21,5 +21,6 @@ public class TextDecomp
           }
           // print decompressed text to screen
           System.out.println(msg);
+          sc.close();
       }
     }
